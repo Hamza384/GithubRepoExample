@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         
         println("First Commit")
+        println("Second Commit from friend")
 
 
     }
